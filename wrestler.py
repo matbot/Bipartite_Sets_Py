@@ -3,7 +3,6 @@
 """ Author: Mathew McDade
     Date: 2/17/2019
     Class: CS325.400 Winter 2019
-    Assignment: HW5: Wrestler
     Description: This program takes input from a txt file passed by name as an argument from the CLI. An adjacency list
     graph is built using the txt file input. The primary algorithm attempts to separate the graph into bipartite sets
     using a breadth first search. The sets are then separated into babyfaces and heels and returned. If bipartite sets
